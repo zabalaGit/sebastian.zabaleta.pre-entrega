@@ -1,5 +1,6 @@
 # sebastian.zabaleta.pre-entrega
-Fake Store API - pre entrega
+Fake Store API - pre entrega (mayo 2025)
+
 
 # uso:
 1.- Consultar todos los productos: npm start GET PRODUCTS
